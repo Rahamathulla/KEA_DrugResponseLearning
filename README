@@ -1,4 +1,5 @@
-KEA DrugResponseLearning matlab
+Forked from KEA DrugResponseLearning matlab
+The model will be converted from MATLAB to Octave - to provide access to lot of people.
 
 DrugResponse is a program that build drug response model base on NCI60 data set (U133_plus2.0), and output model for prediction of patients
 
@@ -21,3 +22,4 @@ DrugResponse_main('drug_mas5_reduced.mat')
 
 
 Cai Huang 05/03/2017
+Rahamathulla 21/11/2017
